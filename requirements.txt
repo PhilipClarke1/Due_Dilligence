@@ -1,0 +1,11 @@
+streamlit
+gradio
+openai
+anthropic
+pandas
+numpy
+matplotlib
+requests
+newspaper3k
+python-dotenv
+scikit-learn
