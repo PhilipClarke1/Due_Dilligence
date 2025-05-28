@@ -9,3 +9,4 @@ requests
 newspaper3k
 python-dotenv
 scikit-learn
+lxml_html_clean
